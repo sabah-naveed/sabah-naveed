@@ -2,6 +2,8 @@
 <h3 align="center">An student, developer, and designer.</h3>
 
 - 🔭 I’m currently working on **NJ Connect**
+
+- 🎓 I'm persuing a BS in Computer Science @ Stevens Institute of Technology (Expected Graduation: Dec 2024)
   
 - 👀 I'm interested in UX, AI, and robotics!
 

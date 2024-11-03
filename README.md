@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sabah</h1>
-<h3 align="center">An student, developer, and designer.</h3>
+<h3 align="center">A student, developer, and designer.</h3>
 
 - 🔭 I’m currently working on **NJ Connect**
 

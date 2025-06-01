@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sabah</h1>
 <h3 align="center">A student, developer, and designer.</h3>
 
-- 🔭 I’m currently working on **NJ Connect**! An AI chatbot that NJ Transit customers will be able to use for trip planning and FAQ purposes. 
+- 🔭 I’m currently working on **NJ Connect**! An AI chatbot that NJ Transit customers will be able to use for trip planning and FAQ purposes... if you see a gap in my commits I'm probably busy developing on my work Github account btw
 
 - 🎓 I'm a recent Computer Science Grad from Stevens Institute of Technology with a graduate certificate in Machine Learning
   

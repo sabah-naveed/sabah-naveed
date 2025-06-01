@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sabah</h1>
 <h3 align="center">A student, developer, and designer.</h3>
 
-- 🔭 I’m currently working on **NJ Connect**
+- 🔭 I’m currently working on **NJ Connect**! An AI chatbot that NJ Transit customers will be able to use for trip planning and FAQ purposes. 
 
-- 🎓 I'm persuing a BS in Computer Science @ Stevens Institute of Technology (Expected Graduation: Dec 2024)
+- 🎓 I'm a recent Computer Science Grad from Stevens Institute of Technology with a graduate certificate in Machine Learning
   
-- 👀 I'm interested in UX, AI, and robotics!
+- 👀 I'm interested in AI and robotics!
 
 - 👨‍💻 All of my projects are available at [https://sabah-naveed.github.io/sabrain/](https://sabah-naveed.github.io/sabrain/)
 
